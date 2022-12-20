@@ -49,7 +49,8 @@
       <plugin>
         <artifactId>maven-site-plugin</artifactId>
         <version>4.0.0-M4</version>
-       
+      <plugin>
+               
             <plugin>
               <artifactId>maven-checkstyle-plugin</artifactId>
             </plugin>
